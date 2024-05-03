@@ -9,6 +9,10 @@
     padding: 0;
 }
 
+div{
+    background-color: #2980B9;
+}
+
 header{
     background-color: #008;
 }
@@ -42,6 +46,10 @@ header nav ul {
 
 #headerForm label{
     margin-left: 2em;
+}
+
+.navBar{
+    background-color:#2980B9;
 }
 
 main{
